@@ -21,6 +21,8 @@ public class ifElse {
 		else {
 			System.out.println("(" + x + "," + y + ")는 사각형 선 밖에 있습니다.");
 		}
+		
+		scanner.close();
 	}
 }
 
