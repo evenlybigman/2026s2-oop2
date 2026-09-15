@@ -1,7 +1,7 @@
-package No2_9;
+package week02;
 import java.util.Scanner;
 
-public class ifElse {
+public class No2_9 {
 	public static void main(String args[]) {
 		System.out.println("제출자:김주혁\n");
 		
@@ -25,4 +25,3 @@ public class ifElse {
 		scanner.close();
 	}
 }
-

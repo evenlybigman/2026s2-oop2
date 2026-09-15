@@ -1,7 +1,7 @@
-package No2_1;
+package week02;
 import java.util.Scanner;
 
-public class scanner {
+public class No2_1 {
 	public static void main(String args[]) {
 		System.out.println("제출자:김주혁\n");
 		
